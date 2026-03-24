@@ -1,9 +1,0 @@
-{
-    "name": "AccidentalMantlePopUp",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Ceaika/AccidentalMantle",
-    "description": "Displays a popup when you accidentally mantle at high speed.",
-    "dependencies": [
-        "northstar-Northstar-1.27.4"
-    ]
-}
